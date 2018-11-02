@@ -8,6 +8,11 @@ Access the following page at Safari with iOS 12.
 
 “<a href="https://poly.google.com/view/dLHpzNdygsg">Astronaut</a>” by <a href="https://poly.google.com/user/4aEd8rQgKu2">Poly by Google</a> Labrunie is licensed under <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC-BY 3.0</a>
 
+AR DEMO
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://t.co/2mFBk6QAjL">https://t.co/2mFBk6QAjL</a>でPolyのモデルをUSDZに変換し、GitHubPagesで公開してAR Quick Lookで動かしてみた。ワンライナーでこれが出来ちゃうのやばい…<br><br>&lt;a href=&quot;Astronaut.usdz&quot; rel=&quot;ar&quot;&gt;&lt;img src=&quot;Astronaut.gif&quot; /&gt;&lt;/a&gt;<br><br>↓ iOS12以降のSafariでアクセスすると試せます<a href="https://t.co/Sr6MIr72Nj">https://t.co/Sr6MIr72Nj</a> <a href="https://t.co/0OqNP3qoPo">pic.twitter.com/0OqNP3qoPo</a></p>&mdash; Nakaji Kohki (@kohki_nakaji) <a href="https://twitter.com/kohki_nakaji/status/1057561883731877888?ref_src=twsrc%5Etfw">2018年10月31日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <h2>How to make</h2>
 
 1. Convert the astronaut model downloaded from <a href="https://poly.google.com">Poly</a> to USDZ file by <a href="https://www.vectary.com/">VECTARYM</a>.
